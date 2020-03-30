@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cansusener\\Desktop\\EĞİTİM\\sonarqube\\cansu\\BDD.csproj": {}
+    "C:\\Users\\cansusener\\Documents\\GitHub\\cansusener\\cansu\\BDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cansusener\\Desktop\\EĞİTİM\\sonarqube\\cansu\\BDD.csproj": {
+    "C:\\Users\\cansusener\\Documents\\GitHub\\cansusener\\cansu\\BDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cansusener\\Desktop\\EĞİTİM\\sonarqube\\cansu\\BDD.csproj",
+        "projectUniqueName": "C:\\Users\\cansusener\\Documents\\GitHub\\cansusener\\cansu\\BDD.csproj",
         "projectName": "BDD",
-        "projectPath": "C:\\Users\\cansusener\\Desktop\\EĞİTİM\\sonarqube\\cansu\\BDD.csproj",
+        "projectPath": "C:\\Users\\cansusener\\Documents\\GitHub\\cansusener\\cansu\\BDD.csproj",
         "packagesPath": "C:\\Users\\cansusener\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cansusener\\Desktop\\EĞİTİM\\sonarqube\\cansu\\obj\\",
+        "outputPath": "C:\\Users\\cansusener\\Documents\\GitHub\\cansusener\\cansu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

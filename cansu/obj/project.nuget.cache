@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjuXGgk6EX0SzelPSLeY8OlXBeCibAs/s2JMehW6At/LSfPKeHHnup/cd/Ydr3LBS04F0Sc8lKAcZ7UqixcBqQ==",
+  "dgSpecHash": "/Vik66DBq6bMG7YDDt/wOCoIKgXgHsOILhFdfzQr3VJl9hV78eRrm9JJlZGU2ijRkr0LjNhCVoCnaR83uppM4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cansusener\\Desktop\\EĞİTİM\\sonarqube\\cansu\\BDD.csproj",
+  "projectFilePath": "C:\\Users\\cansusener\\Documents\\GitHub\\cansusener\\cansu\\BDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cansusener\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\cansusener\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",

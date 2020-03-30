@@ -52,7 +52,7 @@ Senaryo: Pegasus Bilet
 	* '.field-wrapper .gender div input' objesine tıklanır.
 	* '.field-wrapper .gender div input' seçimi 'Kadın' yapılır.
 
-	* '/html/body/div[2]/div/div[4]/div[2]/div/div[3]/div[2]/div[1]/div/div/form/div/div/div/div[6]/div/div[2]/div/div/input' alanına '22222222222' yazılır.
+	* '/html/body/div[2]/div/div[4]/div[2]/div/div[3]/div[2]/div[1]/div/div/form/div/div/div/div[6]/div/div[2]/div/div/input' alanına '22222222220' yazılır.
 	* '/html/body/div[2]/div/div[4]/div[2]/div/div[3]/div[2]/div[4]/button/div' alanına tıklanır.
 	* '1' saniye beklenir.
 	
