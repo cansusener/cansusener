@@ -1,0 +1,72 @@
+2020-03-27 23:35:21,496 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-27 23:35:21,544 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignIn' objesine tıklanır.
+2020-03-27 23:35:21,547 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignIn
+2020-03-27 23:35:23,726 [NonParallelWorker] INFO BDD.Steps - Step :'#email' alanına "yek@gmail.com" değeri yazılır.
+2020-03-27 23:35:23,729 [NonParallelWorker] INFO BDD.Steps - Parametre   :#email
+2020-03-27 23:35:27,264 [NonParallelWorker] INFO BDD.Steps - Step :'#password' alanına "yek" değeri yazılır.
+2020-03-27 23:35:27,265 [NonParallelWorker] INFO BDD.Steps - Parametre   :#password
+2020-03-27 23:35:28,615 [NonParallelWorker] INFO BDD.Steps - Step :'2' saniye beklenir.
+2020-03-27 23:35:28,619 [NonParallelWorker] INFO BDD.Steps - 2saniye bekleniyor...
+2020-03-27 23:41:50,841 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-27 23:41:50,883 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignIn' objesine tıklanır.
+2020-03-27 23:41:50,886 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignIn
+2020-03-27 23:41:53,526 [NonParallelWorker] INFO BDD.Steps - Step :'#email' alanına "yek@gmail.com" değeri yazılır.
+2020-03-27 23:41:53,528 [NonParallelWorker] INFO BDD.Steps - Parametre   :#email
+2020-03-27 23:41:59,278 [NonParallelWorker] INFO BDD.Steps - Step :'#password' alanına "yek" değeri yazılır.
+2020-03-27 23:41:59,279 [NonParallelWorker] INFO BDD.Steps - Parametre   :#password
+2020-03-27 23:42:00,324 [NonParallelWorker] INFO BDD.Steps - Step :'2' saniye beklenir.
+2020-03-27 23:42:00,326 [NonParallelWorker] INFO BDD.Steps - 2saniye bekleniyor...
+2020-03-27 23:50:14,794 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-27 23:50:14,818 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignIn' objesine tıklanır.
+2020-03-27 23:50:14,820 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignIn
+2020-03-27 23:50:22,883 [NonParallelWorker] INFO BDD.Steps - Step :'#email' alanına "yek@gmail.com" değeri yazılır.
+2020-03-27 23:50:22,884 [NonParallelWorker] INFO BDD.Steps - Parametre   :#email
+2020-03-27 23:52:17,580 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-27 23:52:17,611 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignIn' objesine tıklanır.
+2020-03-27 23:52:17,612 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignIn
+2020-03-27 23:52:26,577 [NonParallelWorker] INFO BDD.Steps - Step :'#email' alanına "yek@gmail.com" değeri yazılır.
+2020-03-27 23:52:26,578 [NonParallelWorker] INFO BDD.Steps - Parametre   :#email
+2020-03-27 23:57:48,423 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-27 23:57:48,445 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignIn' objesine tıklanır.
+2020-03-27 23:57:48,446 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignIn
+2020-03-27 23:57:52,888 [NonParallelWorker] INFO BDD.Steps - Step :'#email' alanına "yek@gmail.com" değeri yazılır.
+2020-03-27 23:57:52,889 [NonParallelWorker] INFO BDD.Steps - Parametre   :#email
+2020-03-28 00:25:13,232 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-28 00:25:13,254 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignUp' objesine tıklanır.
+2020-03-28 00:25:13,255 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignUp
+2020-03-28 00:25:17,060 [NonParallelWorker] INFO BDD.Steps - Step :'firstName' alanına "Yunus Emre Kılıç" değeri yazılır.
+2020-03-28 00:25:17,061 [NonParallelWorker] INFO BDD.Steps - Parametre   :firstName
+2020-03-28 00:27:15,571 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-28 00:27:15,595 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignUp' objesine tıklanır.
+2020-03-28 00:27:15,597 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignUp
+2020-03-28 00:27:18,303 [NonParallelWorker] INFO BDD.Steps - Step :'#firstName' alanına "Yunus Emre Kılıç" değeri yazılır.
+2020-03-28 00:27:18,304 [NonParallelWorker] INFO BDD.Steps - Parametre   :#firstName
+2020-03-28 00:27:19,505 [NonParallelWorker] INFO BDD.Steps - Step :'.hTitle' objesinin "n11.com'a Üye Olun" değerini içerdiği kontrol edilir.
+2020-03-28 00:27:19,507 [NonParallelWorker] INFO BDD.Steps - Değer Kontrolu gerçekleştiriliyor.
+2020-03-28 00:27:21,401 [NonParallelWorker] INFO BDD.Steps - Step :'2' saniye beklenir.
+2020-03-28 00:27:21,402 [NonParallelWorker] INFO BDD.Steps - 2saniye bekleniyor...
+2020-03-28 00:27:50,055 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-28 00:27:50,077 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignUp' objesine tıklanır.
+2020-03-28 00:27:50,079 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignUp
+2020-03-28 00:27:54,215 [NonParallelWorker] INFO BDD.Steps - Step :'#firstName' alanına "Yunus Emre Kılıç" değeri yazılır.
+2020-03-28 00:27:54,216 [NonParallelWorker] INFO BDD.Steps - Parametre   :#firstName
+2020-03-28 00:27:55,416 [NonParallelWorker] INFO BDD.Steps - Step :'.hTitle' objesinin "n11.com'a Üye Olun" değerini içerdiği kontrol edilir.
+2020-03-28 00:27:55,418 [NonParallelWorker] INFO BDD.Steps - Değer Kontrolu gerçekleştiriliyor.
+2020-03-28 00:27:56,194 [NonParallelWorker] INFO BDD.Steps - Step :'2' saniye beklenir.
+2020-03-28 00:27:56,196 [NonParallelWorker] INFO BDD.Steps - 2saniye bekleniyor...
+2020-03-28 00:28:34,689 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-28 00:28:34,734 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignUp' objesine tıklanır.
+2020-03-28 00:28:34,737 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignUp
+2020-03-28 00:29:30,566 [NonParallelWorker] INFO BDD.Steps - Driver ayağa kalktı...
+2020-03-28 00:29:30,587 [NonParallelWorker] INFO BDD.Steps - Step :'.btnSignUp' objesine tıklanır.
+2020-03-28 00:29:30,589 [NonParallelWorker] INFO BDD.Steps - Parametre   :.btnSignUp
+2020-03-28 00:29:45,324 [NonParallelWorker] INFO BDD.Steps - Step :'.hTitle' objesinin "n11.com'a Üye Olun" değerini içerdiği kontrol edilir.
+2020-03-28 00:29:45,326 [NonParallelWorker] INFO BDD.Steps - Değer Kontrolu gerçekleştiriliyor.
+2020-03-28 00:29:46,105 [NonParallelWorker] INFO BDD.Steps - Step :'#firstName' alanına "Yunus Emre" değeri yazılır.
+2020-03-28 00:29:46,106 [NonParallelWorker] INFO BDD.Steps - Parametre   :#firstName
+2020-03-28 00:29:47,270 [NonParallelWorker] INFO BDD.Steps - Step :'#lastName' alanına "Kılıç" değeri yazılır.
+2020-03-28 00:29:47,270 [NonParallelWorker] INFO BDD.Steps - Parametre   :#lastName
+2020-03-28 00:29:48,691 [NonParallelWorker] INFO BDD.Steps - Step :'#registrationEmail' alanına "yek@gmail.com" değeri yazılır.
+2020-03-28 00:29:48,691 [NonParallelWorker] INFO BDD.Steps - Parametre   :#registrationEmail
+2020-03-28 00:29:56,378 [NonParallelWorker] INFO BDD.Steps - Step :'2' saniye beklenir.
+2020-03-28 00:29:56,380 [NonParallelWorker] INFO BDD.Steps - 2saniye bekleniyor...
